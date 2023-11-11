@@ -6,3 +6,8 @@
 * HTML
 * CSS
 * JS
+## Education:
+* Rolling Scopes School
+  * 2023-2024
+* NNGU
+  * 2015-2019
